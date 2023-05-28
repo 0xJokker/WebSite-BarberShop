@@ -2,4 +2,4 @@
 BarberShop WebSite
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
